@@ -1,0 +1,26 @@
+#card-single:hover{
+    box-shadow: 0 0 10px
+    rgba(15, 14, 14, 0.2);
+}
+
+@media screen and (max-width: 1200px) {
+    .menina{
+      display: none !important; 
+    }
+  }
+
+@media screen and (max-width: 800px) {
+.esconder{
+    display: none !important; 
+}
+}
+
+@media screen and (max-width: 1000px) {
+    .icones{
+        display: none !important; 
+    }
+    }
+
+.smooth {
+    scroll-behavior: smooth !important;
+}
